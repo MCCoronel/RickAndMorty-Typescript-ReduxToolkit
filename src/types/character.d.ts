@@ -11,8 +11,7 @@ export interface RawCharacter {
         url: string
     }
     location: {
-        name: string
-        url: string
+        
     }
     episode: string[]
     url: string
